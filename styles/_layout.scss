@@ -1,0 +1,22 @@
+.container {
+  margin: 20px auto;
+  max-width: 1333px;
+  padding: 0 20px;
+}
+
+.title {
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  font-size: 22px;
+  border-bottom: 1px solid var(--grey-color);
+}
+
+.content {
+  margin-top: 20px;
+  border: 5px solid var(--grey-color);
+  padding: 10px;
+}
+
+.no-content {
+  padding: 20px 20px 15px;
+}
